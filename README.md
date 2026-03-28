@@ -1,8 +1,8 @@
 # 💫 About Me:
-Incoming SDE @ Marketing Kitchen
-Prev. City of Markham, Checklick
-Currently Research @ MiON Forest
-Building Curby
+Incoming SDE @ Marketing Kitchen<br>
+Prev. City of Markham, Checklick<br>
+Currently Research @ MiON Forest<br>
+Building Curby<br>
 
 
 ## 🌐 Socials:
