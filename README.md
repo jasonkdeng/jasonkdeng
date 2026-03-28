@@ -1,8 +1,8 @@
 # 💫 About Me:
-Incoming SDE @ Marketing Kitchen<br>
-Prev. City of Markham, Checklick<br>
-Currently Research @ MiON Forest, Web Dev Lead @ Waturbine, Engineering @ GrassrootsKW<br>
-Building Curby<br>
+**Incoming:** SDE @ Marketing Kitchen<br>
+**Previously:** City of Markham, Checklick<br>
+**Currently:** Research @ MiON Forest, Web Dev Lead @ Waturbine, Engineering @ GrassrootsKW<br>
+**Building:** Curby<br>
 
 
 ## 🌐 Socials:
