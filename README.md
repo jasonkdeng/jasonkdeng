@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=jasonkdeng&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
 # 💫 About Me:
 **Incoming:** SDE @ Marketing Kitchen<br>
 **Previously:** City of Markham, Checklick<br>
