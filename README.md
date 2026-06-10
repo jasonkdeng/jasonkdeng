@@ -1,9 +1,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jasonkdeng&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 # 💫 About Me:
-**Incoming:** SDE @ Marketing Kitchen<br>
 **Previously:** City of Markham, Checklick, Crozier<br>
-**Currently:** Research @ MiON Forest, Web Dev Lead @ Waturbine, Engineering @ GrassrootsKW<br>
+**Currently:** SDE @ Marketing Kitchen, Research @ MiON Forest, Web Dev and Controls Lead @ Waturbine, Engineering @ GrassrootsKW<br>
 **Building:** Curby<br>
 
 
