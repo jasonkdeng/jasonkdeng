@@ -3,7 +3,7 @@
 # 💫 About Me:
 **Previously:** City of Markham, Checklick, Crozier<br>
 **Currently:** SDE @ Marketing Kitchen, Research @ MiON Forest, Web Dev and Controls Lead @ Waturbine, Engineering @ GrassrootsKW<br>
-**Building:** Curby<br>
+**Building:** Filesystems for agents and Robots<br>
 
 
 ## 🌐 Socials:
