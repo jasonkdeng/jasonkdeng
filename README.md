@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=jasonkdeng&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 # 💫 About Me:
 **Previously:** City of Markham, Checklick, Crozier<br>
